@@ -29,7 +29,7 @@ Emphasis is placed on understanding and applying classical computer vision algor
 
 ## Contributors
 This is a project for Distributed Computing course at Ain Shams University
-Performed by:
+-Performed by:
 - Salma Sherif Mohamed(https://github.com/salmasherif846)
 - Hanna Ussama Mohamed(https://github.com/hannaussama)
 
