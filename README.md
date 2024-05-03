@@ -37,5 +37,5 @@ Performed by:
 
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the University License [[MIT License](https://eng.asu.edu.eg/education/1663709)](LICENSE).
 
