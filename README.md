@@ -1,6 +1,4 @@
 
----
-
 # QR Code Decoding using Classical Computer Vision Algorithms
 
 ## Overview
