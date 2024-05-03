@@ -28,6 +28,8 @@ Emphasis is placed on understanding and applying classical computer vision algor
 3. Use the Demo directory to test the functionality of the image processing pipeline and QR code decoding.
 
 ## Contributors
+This is a project for Distributed Computing course at Ain Shams University
+Performed by:
 - Salma Sherif Mohamed(https://github.com/salmasherif846)
 - Hanna Ussama Mohamed(https://github.com/hannaussama)
 
@@ -35,4 +37,3 @@ Emphasis is placed on understanding and applying classical computer vision algor
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
